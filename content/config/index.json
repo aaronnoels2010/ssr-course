@@ -1,0 +1,32 @@
+[
+  {
+    "id": "home",
+    "name": "Home",
+    "to": "/",
+    "icon": "home"
+  },
+  {
+    "id": "views",
+    "name": "Views",
+    "to": "/views",
+    "icon": "view-carousel"
+  },
+  {
+    "id": "context-and-helpers",
+    "name": "Context & Helpers",
+    "to": "/context-and-helpers",
+    "icon": "lifebuoy"
+  },
+  {
+    "id": "ssr",
+    "name": "Server Side Rendering",
+    "to": "/ssr",
+    "icon": "server"
+  },
+  {
+    "id": "lifecycles",
+    "name": "Lifecycles",
+    "to": "/lifecycles",
+    "icon": "repeat"
+  }
+]

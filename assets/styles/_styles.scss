@@ -1,0 +1,25 @@
+@import "layouts/default";
+@import "content/nuxt-content";
+
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+a {
+  color: #039be5;
+  font-weight: bold;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.v-list-item, .v-breadcrumbs__item {
+  &:hover {
+    text-decoration: none;
+  }
+}
