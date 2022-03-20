@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Sitemap: https://ssr-course.herokuapp.com/sitemap.xml

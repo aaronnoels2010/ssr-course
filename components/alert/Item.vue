@@ -29,7 +29,7 @@ export default Vue.extend ({
   data() {
     return {
       active: true,
-      time: 120000,
+      time: 6000,
       progress: 0
     }
   },
