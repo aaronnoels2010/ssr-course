@@ -16,5 +16,4 @@ published: 26/2/2022
 
 1. Voeg een alert toe telkens de gebruiker offline gaat.
 2. Doe het zelfde maar deze keer als hij terug online gaat.
-3. Laat zien wanneer deze pagina ingeladen is en voorzie ook de refresh functionaliteit.
 

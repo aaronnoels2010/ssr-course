@@ -74,9 +74,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   router: {
-    middleware: ['auth', 'routing']
+    middleware: ['auth']
   },
-  serverMiddleware: [ {path: '/api', handler: '~/api/index.ts'} ],
   build: {
     extractCSS: true
   }

@@ -6,5 +6,7 @@ author:
   name: Aäron Noels
 published: 26/2/2022
 ---
-##### Middleware
-- Adding middleware on each level: global, layout and page
+##### Data fetching
+*	Voeg een fetch patroon toe aan de custom page waar je de mogelijkheid hebt om te refreshen zonder de pagina opnieuw te laden.
+##### Loading
+* Trigger the loading indicator manually
